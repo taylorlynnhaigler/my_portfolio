@@ -25,5 +25,24 @@ img.align-center{
 	margin: 10px auto;
 	display: block;}
 img.medium{
-	width:500px;
+	width:800px;
 	height:500px;}
+footer{
+	margin: 10px auto;
+	padding: 20px;}
+.social img{
+	width: 40px;
+	height: 40px;}
+footer ul{
+	text-align: center;
+	list-style-type: none;}
+footer ul li{
+	display: inline-block;
+	margin: 20px 20px;}
+.about{
+	margin: 30px auto;
+	padding: 20px;
+	text-align: center;}
+img.me{
+	border-radius: 25px;
+}
