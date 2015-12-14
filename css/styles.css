@@ -1,0 +1,24 @@
+body {
+	background-color: white;
+	font-family: "Courier New", Courier, monospace;
+	border: 1px solid black;
+	width: 80%;
+	margin: 0 auto;}
+.logo {
+	width:30px;
+	margin: 1px auto;
+}
+nav ul{
+	text-align: center;
+	list-style-type: none;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;}
+nav ul li {
+	text-decoration: none;
+	text-transform: uppercase;
+	display: inline-block;
+	margin: 30px;}
+nav li a {
+	color: black;}
+nav li a:hover, nav li a.current {
+	color: black;}
