@@ -4,10 +4,9 @@ body {
 	border: 1px solid black;
 	width: 80%;
 	margin: 0 auto;}
-.logo {
-	width:30px;
-	margin: 1px auto;
-}
+img.logo {
+	width:200px;
+	margin: 10px auto;}
 nav ul{
 	text-align: center;
 	list-style-type: none;
@@ -17,8 +16,14 @@ nav ul li {
 	text-decoration: none;
 	text-transform: uppercase;
 	display: inline-block;
-	margin: 30px;}
+	margin: 30px 30px;}
 nav li a {
 	color: black;}
 nav li a:hover, nav li a.current {
 	color: black;}
+img.align-center{
+	margin: 10px auto;
+	display: block;}
+img.medium{
+	width:500px;
+	height:500px;}
