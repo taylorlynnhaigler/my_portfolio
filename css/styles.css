@@ -22,7 +22,7 @@ nav li a {
 nav li a:hover, nav li a.current {
 	color: black;}
 img.align-center{
-	margin: 10px auto;
+	margin: 50px auto;
 	display: block;}
 img.medium{
 	width:800px;
@@ -52,7 +52,8 @@ figure{
 	display: block;
 	margin: 30px auto;
 	padding: 30px;
-	text-align: center;}
+	text-align: center;
+	border: 1px solid black;}
 figcaption{
 	display: block;
 	margin-bottom: 10px;
